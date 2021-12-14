@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\AnthonyZ\Desktop\实验一\Server\ConsoleApplication1\ConsoleApplication1.cpp(94,27): warning C4244: “=”: 从“u_short”转换到“unsigned char”，可能丢失数据
+C:\Users\AnthonyZ\Desktop\实验一\Server\ConsoleApplication1\ConsoleApplication1.cpp(233,27): warning C4244: “=”: 从“u_short”转换到“unsigned char”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\AnthonyZ\Desktop\实验一\Server\x64\Debug\ConsoleApplication1.exe

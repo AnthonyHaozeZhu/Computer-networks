@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\AnthonyZ\Desktop\实验一\Client\ConsoleApplication1\ConsoleApplication1.cpp(62,13): warning C4101: “sum”: 未引用的局部变量
+C:\Users\AnthonyZ\Desktop\实验一\Client\ConsoleApplication1\ConsoleApplication1.cpp(186,4): warning C4102: “end”: 未引用的标签
+C:\Users\AnthonyZ\Desktop\实验一\Client\ConsoleApplication1\ConsoleApplication1.cpp(238,13): warning C4101: “sum”: 未引用的局部变量
+C:\Users\AnthonyZ\Desktop\实验一\Client\ConsoleApplication1\ConsoleApplication1.cpp(345,80): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\AnthonyZ\Desktop\实验一\Client\x64\Debug\ConsoleApplication1.exe
