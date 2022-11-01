@@ -1,3 +1,5 @@
+$\color{red}{NKU同学参考前务必阅读我主页readme中的内容}$
+
 # Computer-networks
 本人在南开大学学习计算机网络时所写的实验作业
 - 简单聊天室功能
